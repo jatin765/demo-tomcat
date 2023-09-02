@@ -38,7 +38,7 @@ input[type=submit]:hover {
 </style>
 </head>
 <body>
-<h1> Input your Details </h1>
+<h1> Input your Details in the above form </h1>
 <h3>Contact Form</h3>
 
 <div class="container">
